@@ -1,4 +1,4 @@
-### A simple way to explain the coding steps in your presentation
+### A simple way to explain the coding steps in the presentation
 
 I can summarize my code in **8 steps**:
 
